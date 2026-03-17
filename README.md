@@ -44,4 +44,4 @@ We welcome all contributions. Please open an issue in the repo or fork, edit, an
 
 ### License
 
-This repo is licensed under MIT for code and CC BY-SA 4.0 for documentation.
+This repo is licensed under MIT for code and CC BY-SA 4.0 for documentation.This repo is licensed under MIT for code and CC BY-SA 4.0 for documentation.
